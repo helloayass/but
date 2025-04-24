@@ -39,9 +39,8 @@
 
 
         const texts = [
-            " DEVELOPER",
-            "YOUTUBER",
-            "STUDENT"
+            "STUDENT",
+            "YOUTUBER"
         ]
         
         let speed = 100;
